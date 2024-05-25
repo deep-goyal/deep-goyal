@@ -4,9 +4,9 @@
 
 - 🚀 Currently learning how to build containerized applications.
 
-- 📧 Reach me at: [deep.goyal@icloud.com](mailto:deep.goyal@icloud.com).
+- 📧 Reach me at: [deep.goyal@icloud.com↗](mailto:deep.goyal@icloud.com).
 
-- 💼 Check out my [LinkedIn](https://www.linkedin.com/in/goyal-deep).
+- 💼 Check out my [LinkedIn↗](https://www.linkedin.com/in/goyal-deep).
 
 - 🏆 Oh and, I'm the Outstanding TA of the Year.
 
