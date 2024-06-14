@@ -22,6 +22,10 @@
       <br>React
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="56" height="56" />
+      <br>Angular.js
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="56" height="56" />
       <br>Sass
     </td>
@@ -37,11 +41,16 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="56" height="56" />
       <br>TailwindCSS
     </td>
-    <!-- Backend Frameworks -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="56" height="56" />
+      <br>Figma
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="56" height="56" />
       <br>Django
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="56" height="56" />
       <br>Express
@@ -50,8 +59,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="56" height="56" />
       <br>Node.js
     </td>
-  </tr>
-  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="discordjs" width="56" height="56" />
+      <br>Discord.js
+    </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="56" height="56" />
       <br>Jest
@@ -72,30 +83,20 @@
       <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="56" height="56" />
       <br>GraphQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="56" height="56" />
       <br>REST API
-    </td>
-    <!-- Database Tools -->
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="56" height="56" />
-      <br>SQLAlchemy
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="56" height="56" />
       <br>PostgreSQL
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="56" height="56" />
-      <br>MySQL
-    </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="56" height="56" />
       <br>MongoDB
     </td>
-    <!-- CI/CD Tools -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="56" height="56" />
       <br>AWS
@@ -109,16 +110,16 @@
       <br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="56" height="56" />
-      <br>Nginx
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" alt="mongoose" width="56" height="56" />
+      <br>Mongoose
     </td>
-    <!-- Programming Languages -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="56" height="56" />
       <br>Python
     </td>
   </tr>
   <tr>
+    <!-- Programming Languages -->
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="56" height="56" />
       <br>JavaScript
@@ -139,8 +140,14 @@
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="56" height="56" />
       <br>Java
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="56" height="56" />
+      <br>Postman
+    </td>
   </tr>
 </table>
 
 <!-- Profile Views Counter -->
+
 ![Profile views](https://komarev.com/ghpvc/?username=deepgoyal&color=blueviolet)
+
