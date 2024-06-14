@@ -1,17 +1,14 @@
-## Hi all, I'm Deep 👋
+## <img src="./Deep.png" alt="Deep" width="200">
 
 - 🌟 Software developer + aspiring teacher. I'm interested in building beautiful and robust applications.
 
 - 🚀 Currently learning how to build containerized applications.
 
 - 📧 Get in touch with me at: [deep.goyal@icloud.com↗](mailto:deep.goyal@icloud.com).
-  
 - 💼 Check out my [Portfolio Website↗](https://www.deepgoyal.com).
-  
 - ⚡️ Fun fact: I know how to solve the megaminx cube.
-  
 - 🏆 Oh and, I'm the Outstanding TA of the Year.
-  
+
 ### My Tools and Frameworks:
 
 <p align="left">
