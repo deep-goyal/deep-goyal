@@ -1,48 +1,146 @@
 ## <p align="center"><img src="./deepunion.png" alt="Deep" width="200"> </p>
 
+<!-- About Me Section -->
 - 🌟 Software developer + aspiring teacher. I'm interested in building beautiful and robust applications.
 
 - 🚀 Currently learning how to build containerized applications.
-
-- 📧 Get in touch with me at: [deep.goyal@icloud.com↗](mailto:deep.goyal@icloud.com).
+  
 - 💼 Check out my [Portfolio Website↗](https://www.deepgoyal.com).
+  
 - ⚡️ Fun fact: I know how to solve the megaminx cube.
+  
 - 🏆 Oh and, I'm the Outstanding TA of the Year.
 
 ### My Tools and Frameworks:
 
-<p align="left">
+<!-- Tools and Frameworks Table -->
+<table align="center">
+  <tr>
+    <!-- Frontend Frameworks -->
+    <td align="center" width="96"> 
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="56" height="56" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="56" height="56" />
+      <br>Sass
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="56" height="56" />
+      <br>Redux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="56" height="56" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="56" height="56" />
+      <br>TailwindCSS
+    </td>
+    <!-- Backend Frameworks -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="56" height="56" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="56" height="56" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="56" height="56" />
+      <br>Node.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="56" height="56" />
+      <br>Jest
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="56" height="56" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="56" height="56" />
+      <br>Socket.IO
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="56" height="56" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="56" height="56" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="56" height="56" />
+      <br>REST API
+    </td>
+    <!-- Database Tools -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="56" height="56" />
+      <br>SQLAlchemy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="56" height="56" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="56" height="56" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="56" height="56" />
+      <br>MongoDB
+    </td>
+    <!-- CI/CD Tools -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="56" height="56" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="56" height="56" />
+      <br>Jenkins
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="56" height="56" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="56" height="56" />
+      <br>Nginx
+    </td>
+    <!-- Programming Languages -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="56" height="56" />
+      <br>Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="56" height="56" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="56" height="56" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="56" height="56" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift" width="56" height="56" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="56" height="56" />
+      <br>Java
+    </td>
+  </tr>
+</table>
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="flask" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40" />
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" alt="sqlalchemy" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
-
-  <!-- CI/CD -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
-
-  <!-- Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="postman" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="jest" width="40" height="40" />
-
-</p>
-
+<!-- Profile Views Counter -->
 ![Profile views](https://komarev.com/ghpvc/?username=deepgoyal&color=blueviolet)
