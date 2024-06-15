@@ -1,4 +1,4 @@
-## <p align="center"><img src="./deepunion.png" alt="Deep" width="200"> </p>
+## <p align="center"><img src="./bluegradientdeep.png" alt="Deep" width="300"> </p>
 
 <!-- About Me Section -->
 - 🌟 Software developer + aspiring teacher. I'm interested in building beautiful and robust applications.
