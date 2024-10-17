@@ -7,7 +7,7 @@
   
 - 💼 Check out my [Portfolio Website↗](https://www.deepgoyal.com).
   
-- ⚡️ Fun fact: I know how to solve the megaminx cube.
+- ⚡️ Fun fact: I solve a variety of cubes
   
 - 🏆 Oh and, I'm the Outstanding TA of the Year.
 
