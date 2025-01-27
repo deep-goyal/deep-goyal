@@ -1,9 +1,9 @@
 ## <p align="center"><img src="./nocurveblue.png" alt="Deep" width="150"> </p>
 
 <!-- About Me Section -->
-- 🌟 Software developer + aspiring teacher. I'm interested in building beautiful and robust applications.
+- 🌟 Software developer + aspiring professor. 
 
-- 🚀 Currently learning how to build containerized applications.
+- 🚀 Currently learning deep neural networks.
   
 - 💼 Check out my [Portfolio Website↗](https://www.deepgoyal.com).
   
