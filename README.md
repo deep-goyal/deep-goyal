@@ -1,15 +1,11 @@
 ## <p align="center"><img src="./nocurveblue.png" alt="Deep" width="150"> </p>
 
 <!-- About Me Section -->
-- 🌟 Software developer + aspiring professor. 
+- Software Engineer
 
-- 🚀 Currently learning deep neural networks.
+- Currently learning 3Blue1Brown's Manim.
   
-- 💼 Check out my [Portfolio Website↗](https://www.deepgoyal.com).
-  
-- ⚡️ Fun fact: I solve a variety of cubes
-  
-- 🏆 Oh and, I'm the Outstanding TA of the Year.
+- Check out my [Portfolio↗](https://www.deepgoyal.com), [Resumé↗](https://www.deepgoyal.com/resume-goyal-deep.pdf), [Curriculum Vitaé↗](https://read.cv/deepindots).
 
 ### My Tools and Frameworks:
 
