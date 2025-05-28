@@ -3,9 +3,9 @@
 <!-- About Me Section -->
 - Software Engineer
 
-- Currently learning 3Blue1Brown's Manim.
+- Currently learning 3Blue1Brown's Manim
   
-- Check out my [Portfolio↗](https://www.deepgoyal.com).
+- Check out my [Portfolio↗](https://www.deepgoyal.com)
 
 ### My Tools and Frameworks:
 
