@@ -5,7 +5,7 @@
 
 - Currently learning 3Blue1Brown's Manim.
   
-- Check out my [Portfolio↗](https://www.deepgoyal.com), [Resumé↗](https://www.deepgoyal.com/resume-goyal-deep.pdf), [Curriculum Vitaé↗](https://read.cv/deepindots).
+- Check out my [Portfolio↗](https://www.deepgoyal.com).
 
 ### My Tools and Frameworks:
 
