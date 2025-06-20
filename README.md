@@ -4,6 +4,8 @@
 - Software Engineer
 
 - Currently learning 3Blue1Brown's Manim
+
+- Most contributions disappeared after my old email was removed :(  
   
 - Check out my [Portfolio↗](https://www.deepgoyal.com)
 
